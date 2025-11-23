@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agent-gautam&label=Profile%20views&color=0e75b6&style=flat" alt="agent-gautam" /> </p>
 
-- 🔭 I’m currently working on **Meditation Website**
+- 🔭 Currently working at KoinX, contributing in online crypto ledger based systems
 
-- 📫 How to reach me **gautamanand931@gmail.com**
+- 📫 How to reach me **gautam.anand.ptu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
