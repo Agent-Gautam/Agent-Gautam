@@ -1,7 +1,7 @@
 <h1 align="center">Gautam Anand</h1>
 
 <p align="center">
-  Software Engineer &nbsp;·&nbsp; Final Year CSE @ IKGPTU &nbsp;·&nbsp; India
+  Software Engineer &nbsp;·&nbsp; B.Tech CSE'26 @ IKGPTU &nbsp;·&nbsp; India
 </p>
 
 <p align="center">
@@ -27,6 +27,6 @@
 
 ## Currently
 
-- Shipping production features at [KoinX](https://koinx.com) — crypto-tax infrastructure for Indian investors
+- Working on side projects
 - Deepening backend systems knowledge: distributed data, correctness guarantees, test-driven design
-- Open to full-time software engineering roles where the work is genuinely hard
+- Open to full-time software engineering roles where the work is challenging
